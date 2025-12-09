@@ -35,7 +35,7 @@ Simulations were performed in **LTspice**, **MATLAB**, and **Simulink**.
    - Classical **PID controller**  
    - **Model Predictive Controller (MPC)** with duty-cycle constraints  
 
-## 🎛 Controller Designs
+## Controller Designs
 
 ### PID Controller
 - Tuned using step-response shaping  
