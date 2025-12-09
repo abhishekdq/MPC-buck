@@ -76,7 +76,7 @@ PID vs MPC performance clearly shows:
 
 ## Repository Structure
 
-## ▶️ How to Run the Simulation
+## How to Run the Simulation
 
 1. Install MATLAB R2021a or later.
 2. Ensure the following toolboxes are installed:
